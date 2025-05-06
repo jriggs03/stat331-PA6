@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Davis, James, Sumanth, Amar"
 format: html
 editor: visual
 embed-resources: true
